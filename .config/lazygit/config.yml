@@ -1,0 +1,15 @@
+notARepository: 'skip'
+git:
+  paging:
+    colorArg: always
+    pager: delta --dark --paging=never
+gui:
+  theme:
+    selectedLineBgColor:
+      - reverse
+    selectedRangeBgColor:
+      - reverse
+  branchColors:
+    'fix': 'red'
+    'docs': 'blue'
+
